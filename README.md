@@ -1,4 +1,5 @@
-### Hi there 👋
+- 👋  Hi, I’m @anitamalhotra
+- 📫 How to reach me anita.malhotra008@gmail.com
 
 <!--
 **malhotra-anita/malhotra-anita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
